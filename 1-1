@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+public class Task1_1 {
+    int hogeInt=50
+    System.out.println("int型 = hogeInt = " + hogeInt);
+    String hogeString =テスト
+    System.out.print(hogeString);
+    double型を宣言してhogedoubleという変数名をつけて0.2で初期化
+     double hogeDouble = 0.2;
+     byte hogeInt =100
+    String hogestring =合格
+    100
+    hogeStringを表示する
+System.out.println(hogeString);
+合格
